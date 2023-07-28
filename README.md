@@ -1,4 +1,4 @@
-# Memories_Unheard
+# Snap_Life
 
 Social media MERN application that allows users to post interesting
 events that happened in their lives. User also gets likes on his post
